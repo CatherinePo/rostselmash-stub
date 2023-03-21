@@ -172,7 +172,7 @@ ul {
 }
 
 .white-square {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     right: 0;
     width: 200px;
@@ -184,7 +184,7 @@ ul {
 }
 
 .orange-square {
-    position: fixed;
+    position: absolute;
     bottom: 100px;
     right: 200px;
     width: 100px;
