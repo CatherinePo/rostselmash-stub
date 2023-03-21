@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-position: top center;
     margin: 0;
-    
+    padding: 0;
     height: 100vh;
 }
 h1 {
@@ -61,7 +61,7 @@ ul {
     line-height: 66px;
     color: #FFFFFF;
     margin-bottom: 48px;
-    margin-top: 145px;
+    padding-top: 145px;
 }
 
 .subtitle {
@@ -249,7 +249,7 @@ ul {
     font-size: 70px;
     line-height: 66px;
     color: #FFFFFF;
-    margin-top: 116px;
+    padding-top: 116px;
 }
 
 .subtitle {
@@ -511,7 +511,7 @@ ul {
         font-size: 39px;
         line-height: 39px;
         margin-bottom: 30px;
-        margin-top: 117px;
+        padding-top: 117px;
     }
 
     .subtitle-square {
@@ -601,7 +601,7 @@ ul {
         font-size: 34px;
         line-height: 36px;
         margin-bottom: 27px;
-        margin-top: 73px;
+        padding-top: 73px;
     }
 
     .subtitle-square {
@@ -698,7 +698,7 @@ ul {
         font-size: 30px;
         line-height: 32px;
         color: #FFFFFF;
-        margin-top: 63px;
+        padding-top: 63px;
     }
 
     .subtitle-square {
