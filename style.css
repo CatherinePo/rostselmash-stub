@@ -686,8 +686,8 @@ ul {
         position: absolute;
         top: 0;
         right: 0;
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
         background: #020A0A;
         -webkit-animation:spin 0.8s linear ;
         -moz-animation:spin 0.8s linear ;
@@ -698,20 +698,25 @@ ul {
         position: fixed;
         bottom: 0;
         right: 0;
-        width: 200px;
-        height: 100px;
+        width: 160px;
+        height: 80px;
         background: #FFFFFF;
         display: flex;
         align-items: center;
         justify-content: center;
     }
+
+    .white-square img {
+        width: 121px;
+        height: 28.78px;
+    }
     
     .orange-square {
         position: fixed;
-        bottom: 100px;
-        right: 200px;
-        width: 100px;
-        height: 100px;
+        bottom: 80px;
+        right: 160px;
+        width: 800px;
+        height: 800px;
         background: #EA5C2A;    /* transform: rotate(-90deg); */
     }
     
