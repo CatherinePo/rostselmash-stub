@@ -41,7 +41,11 @@ ul {
     font-style: normal
 }
 
-
+.reconstruction {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .container {
     max-width: 1520px;
@@ -61,7 +65,7 @@ ul {
     line-height: 57px;
     color: #FFFFFF;
     margin-bottom: 48px;
-    padding-top: 145px;
+    /* padding-top: 145px; */
 }
 
 .subtitle {
@@ -263,7 +267,7 @@ ul {
     font-size: 60px;
     line-height: 57px;
     color: #FFFFFF;
-    padding-top: 116px;
+    /* padding-top: 116px; */
 }
 
 .subtitle {
@@ -437,7 +441,7 @@ ul {
         font-size: 26px;
         line-height: 29px;
         margin-bottom: 24px;
-        padding-top: 63px;
+        /* padding-top: 63px; */
     }
 
     .subtitle-square {
