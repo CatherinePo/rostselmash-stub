@@ -286,15 +286,6 @@ ul {
     padding-left: 39px;
 }
 
-.contacts__block {
-    background: rgba(255, 255, 255, 0.1);
-    mix-blend-mode: normal;
-    backdrop-filter: blur(3px);
-    max-width: 412px;
-    padding: 16px 40px 37px;
-    margin-top: 20px;
-}
-
 .contacts__block-item {
     font-family: 'TT Norms';
     font-style: normal;
