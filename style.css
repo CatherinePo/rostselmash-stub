@@ -760,44 +760,7 @@ ul {
             padding: 0 20px;
             position: relative
         }
-        
-    
-    .section-title {
-        font-family: 'TT Norms';
-        font-style: normal;
-        font-weight: 800;
-        font-size: 60px;
-        line-height: 57px;
-        color: #FFFFFF;
-        /* padding-top: 116px; */
-    }
-    
-    .subtitle {
-        display: flex;
-        align-items: center;
-    }
-    
-    .section-subtitle {
-        font-family: 'TT Norms';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 24px;
-        line-height: 28px;
-        color: #FFFFFF;
-        max-width: 840px;
-        margin-left: -74px;
-        display: block;
-    }
-    
-    .contacts-title {
-        font-family: 'TT Norms';
-        font-style: normal;
-        font-weight: 800;
-        font-size: 22px;
-        line-height: 26px;
-        color: #FFFFFF;
-        padding-left: 26px;
-    }
+
     
     }
 
