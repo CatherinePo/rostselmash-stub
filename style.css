@@ -92,7 +92,7 @@ ul {
 }
 
 .contacts {
-    margin-top: 74px;
+    margin-top: 60px;
 }
 
 .contacts-title {
@@ -262,10 +262,6 @@ ul {
     display: block;
 }
 
-.contacts {
-    margin-top: 50px;
-}
-
 .contacts-title {
     font-family: 'TT Norms';
     font-style: normal;
@@ -422,7 +418,7 @@ ul {
 }
 
 .contacts {
-    margin-top: 74px;
+    margin-top: 50px;
 }
 
 .contacts-title {
@@ -601,10 +597,6 @@ ul {
     max-width: 840px;
     margin-left: -74px;
     display: block;
-}
-
-.contacts {
-    margin-top: 50px;
 }
 
 .contacts-title {
@@ -794,7 +786,7 @@ ul {
     }
 
     .contacts {
-        margin-top: 24px;
+        margin-top: 40px;
     }
 
     .contacts__block {
@@ -880,7 +872,7 @@ ul {
     }
 
     .contacts {
-        margin-top: 24px;
+        margin-top: 40px;
     }
 
     .contacts__block {
@@ -965,7 +957,7 @@ ul {
     }
 
     .contacts {
-        margin-top: 27px;
+        margin-top: 20px;
     }
 
     .contacts__block {
