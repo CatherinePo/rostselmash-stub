@@ -437,12 +437,13 @@ ul {
     .contacts-title {
         font-size: 20px;
     line-height: 24px;
+    padding-left: 19px;
     }
 
     .section-subtitle {
         font-size: 16px;
         line-height: 19px;
-        margin: -40px;
+        margin: -60px;
         max-width: 260px;
     }
 
@@ -528,7 +529,7 @@ ul {
     .section-subtitle {
         font-size: 16px;
         line-height: 19px;
-        margin: -40px;
+        margin: -60px;
         max-width: 260px;
     }
 
@@ -613,7 +614,7 @@ ul {
     .section-subtitle {
         font-size: 16px;
         line-height: 19px;
-        margin: -40px;
+        margin: -60px;
         max-width: 260px;
     }
 
@@ -696,12 +697,13 @@ ul {
     .contacts-title {
         font-size: 16px;
         line-height: 19px;
+        padding-left: 16px;
     }
 
     .section-subtitle {
         font-size: 14px;
         line-height: 17px;
-        margin: -40px;
+        margin: -56px;
         max-width: 260px;
     }
 
