@@ -352,6 +352,22 @@ ul {
     margin-bottom: 34px;
 }
 
+.footer__social {
+    margin-top: 43px;
+    display: flex;
+}
+
+.footer__social a {
+    display: flex;
+    margin-right: 20px;
+    /* height: 20px; */
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__social a:hover path {
+    fill: #EB5C2C;
+}
 
 
 
@@ -596,10 +612,10 @@ ul {
         font-family: 'TT Norms';
         font-style: normal;
         font-weight: 800;
-        font-size: 56px;
-        line-height: 58px;
+        font-size: 40px;
+        line-height: 42px;
         color: #FFFFFF;
-        margin-bottom: 30px;
+        margin-bottom: 22px;
         /* padding-top: 145px; */
     }
     
@@ -612,11 +628,11 @@ ul {
         font-family: 'TT Norms';
         font-style: normal;
         font-weight: 500;
-        font-size: 20px;
-        line-height: 24px;
+        font-size: 18px;
+        line-height: 21px;
         color: #FFFFFF;
-        max-width: 674px;
-        margin-left: -69px;
+        max-width: 508px;
+        margin-left: -59px;
         display: block;
     }
     
@@ -628,8 +644,8 @@ ul {
         font-family: 'TT Norms';
         font-style: normal;
         font-weight: 800;
-        font-size: 18px;
-        line-height: 21px;
+        font-size: 16px;
+        line-height: 19px;
         color: #FFFFFF;
         padding-left: 22px;
     }
@@ -735,8 +751,8 @@ ul {
         /* position: absolute; */
         bottom: 100px;
         right: 200px;
-        width: 90px;
-        height: 90px;
+        width: 80px;
+        height: 80px;
         background: #EA5C2A;
     }
     
